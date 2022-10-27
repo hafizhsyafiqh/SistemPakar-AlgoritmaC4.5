@@ -1,0 +1,48 @@
+[13-Jul-2022 16:53:54 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 54
+[13-Jul-2022 16:53:57 UTC] PHP Notice:  Undefined index: jawaban in /home/eaglewor/sistempakarc45.eagleworks.id/simpan.php on line 4
+[13-Jul-2022 16:53:59 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 54
+[13-Jul-2022 16:54:01 UTC] PHP Notice:  Undefined index: jawaban in /home/eaglewor/sistempakarc45.eagleworks.id/simpan.php on line 4
+[13-Jul-2022 16:54:03 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 54
+[13-Jul-2022 16:54:05 UTC] PHP Notice:  Undefined index: jawaban in /home/eaglewor/sistempakarc45.eagleworks.id/simpan.php on line 4
+[13-Jul-2022 16:54:08 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 54
+[13-Jul-2022 16:56:05 UTC] PHP Notice:  Trying to get property 'id_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 57
+[13-Jul-2022 16:56:05 UTC] PHP Notice:  Trying to get property 'gambar_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 59
+[13-Jul-2022 16:56:05 UTC] PHP Notice:  Trying to get property 'ket_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 60
+[13-Jul-2022 16:56:05 UTC] PHP Notice:  Trying to get property 'penyebab' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 61
+[13-Jul-2022 16:56:05 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 63
+[13-Jul-2022 23:22:37 UTC] PHP Notice:  Trying to get property 'id_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 57
+[13-Jul-2022 23:22:37 UTC] PHP Notice:  Trying to get property 'gambar_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 59
+[13-Jul-2022 23:22:37 UTC] PHP Notice:  Trying to get property 'ket_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 60
+[13-Jul-2022 23:22:37 UTC] PHP Notice:  Trying to get property 'penyebab' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 61
+[13-Jul-2022 23:22:37 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 63
+[13-Jul-2022 23:24:22 UTC] PHP Notice:  Trying to get property 'id_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 57
+[13-Jul-2022 23:24:22 UTC] PHP Notice:  Trying to get property 'gambar_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 59
+[13-Jul-2022 23:24:22 UTC] PHP Notice:  Trying to get property 'ket_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 60
+[13-Jul-2022 23:24:22 UTC] PHP Notice:  Trying to get property 'penyebab' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 61
+[13-Jul-2022 23:24:22 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 63
+[13-Jul-2022 23:24:25 UTC] PHP Notice:  Undefined index: jawaban in /home/eaglewor/sistempakarc45.eagleworks.id/simpan.php on line 4
+[13-Jul-2022 23:24:27 UTC] PHP Notice:  Trying to get property 'id_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 57
+[13-Jul-2022 23:24:27 UTC] PHP Notice:  Trying to get property 'gambar_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 59
+[13-Jul-2022 23:24:27 UTC] PHP Notice:  Trying to get property 'ket_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 60
+[13-Jul-2022 23:24:27 UTC] PHP Notice:  Trying to get property 'penyebab' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 61
+[13-Jul-2022 23:24:27 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 63
+[13-Jul-2022 23:24:47 UTC] PHP Notice:  Trying to get property 'id_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 57
+[13-Jul-2022 23:24:47 UTC] PHP Notice:  Trying to get property 'gambar_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 59
+[13-Jul-2022 23:24:47 UTC] PHP Notice:  Trying to get property 'ket_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 60
+[13-Jul-2022 23:24:47 UTC] PHP Notice:  Trying to get property 'penyebab' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 61
+[13-Jul-2022 23:24:47 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 63
+[13-Jul-2022 23:27:39 UTC] PHP Notice:  Trying to get property 'id_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 57
+[13-Jul-2022 23:27:39 UTC] PHP Notice:  Trying to get property 'gambar_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 59
+[13-Jul-2022 23:27:39 UTC] PHP Notice:  Trying to get property 'ket_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 60
+[13-Jul-2022 23:27:39 UTC] PHP Notice:  Trying to get property 'penyebab' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 61
+[13-Jul-2022 23:27:39 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 63
+[13-Jul-2022 23:27:43 UTC] PHP Notice:  Trying to get property 'id_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 57
+[13-Jul-2022 23:27:43 UTC] PHP Notice:  Trying to get property 'gambar_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 59
+[13-Jul-2022 23:27:43 UTC] PHP Notice:  Trying to get property 'ket_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 60
+[13-Jul-2022 23:27:43 UTC] PHP Notice:  Trying to get property 'penyebab' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 61
+[13-Jul-2022 23:27:43 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 63
+[13-Jul-2022 23:29:33 UTC] PHP Notice:  Trying to get property 'id_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 57
+[13-Jul-2022 23:29:33 UTC] PHP Notice:  Trying to get property 'gambar_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 59
+[13-Jul-2022 23:29:33 UTC] PHP Notice:  Trying to get property 'ket_nilai' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 60
+[13-Jul-2022 23:29:33 UTC] PHP Notice:  Trying to get property 'penyebab' of non-object in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 61
+[13-Jul-2022 23:29:33 UTC] PHP Notice:  Undefined property: stdClass::$kode_gejala in /home/eaglewor/sistempakarc45.eagleworks.id/konsultasi.php on line 63
